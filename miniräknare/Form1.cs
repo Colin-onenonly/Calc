@@ -110,10 +110,7 @@ namespace miniräknare
             {
                 textBox1.Text = (tal1 / Convert.ToDouble(textBox1.Text)).ToString();
             }
-            if (rakna == "%")
-            {
-                textBox1.Text = ((tal1 / 100) * Convert.ToDouble(textBox1.Text)).ToString();
-            }
+
 
         }
 
@@ -219,7 +216,6 @@ namespace miniräknare
             //sin
             tal1 = Convert.ToDouble(textBox1.Text);
             tal1 = Math.Sin(tal1);
-            tal1 = tal1 * (180 / Math.PI);
             textBox1.Text = tal1.ToString();
         }
 
