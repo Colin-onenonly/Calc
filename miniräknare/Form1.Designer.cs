@@ -76,7 +76,7 @@
             button1.BackColor = Color.FloralWhite;
             button1.Cursor = Cursors.Hand;
             button1.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            button1.Location = new Point(131, 91);
+            button1.Location = new Point(140, 91);
             button1.Name = "button1";
             button1.Size = new Size(79, 82);
             button1.TabIndex = 1;
@@ -115,7 +115,7 @@
             button4.BackColor = Color.FloralWhite;
             button4.Cursor = Cursors.Hand;
             button4.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            button4.Location = new Point(131, 179);
+            button4.Location = new Point(140, 179);
             button4.Name = "button4";
             button4.Size = new Size(79, 82);
             button4.TabIndex = 3;
@@ -154,7 +154,7 @@
             button7.BackColor = Color.FloralWhite;
             button7.Cursor = Cursors.Hand;
             button7.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            button7.Location = new Point(131, 278);
+            button7.Location = new Point(140, 267);
             button7.Name = "button7";
             button7.Size = new Size(79, 82);
             button7.TabIndex = 8;
@@ -167,7 +167,7 @@
             button8.BackColor = Color.FloralWhite;
             button8.Cursor = Cursors.Hand;
             button8.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            button8.Location = new Point(225, 278);
+            button8.Location = new Point(225, 267);
             button8.Name = "button8";
             button8.Size = new Size(79, 82);
             button8.TabIndex = 7;
@@ -180,7 +180,7 @@
             button9.BackColor = Color.FloralWhite;
             button9.Cursor = Cursors.Hand;
             button9.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            button9.Location = new Point(310, 278);
+            button9.Location = new Point(310, 268);
             button9.Name = "button9";
             button9.Size = new Size(79, 82);
             button9.TabIndex = 9;
