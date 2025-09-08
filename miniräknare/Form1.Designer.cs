@@ -297,7 +297,7 @@
             memsave.BackColor = Color.FloralWhite;
             memsave.Cursor = Cursors.Hand;
             memsave.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            memsave.Location = new Point(588, 91);
+            memsave.Location = new Point(588, 152);
             memsave.Name = "memsave";
             memsave.Size = new Size(79, 62);
             memsave.TabIndex = 18;
@@ -310,7 +310,7 @@
             memrewrtie.BackColor = Color.FloralWhite;
             memrewrtie.Cursor = Cursors.Hand;
             memrewrtie.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            memrewrtie.Location = new Point(588, 179);
+            memrewrtie.Location = new Point(588, 220);
             memrewrtie.Name = "memrewrtie";
             memrewrtie.Size = new Size(79, 62);
             memrewrtie.TabIndex = 19;
@@ -323,7 +323,7 @@
             memclear.BackColor = Color.FloralWhite;
             memclear.Cursor = Cursors.Hand;
             memclear.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            memclear.Location = new Point(588, 268);
+            memclear.Location = new Point(588, 288);
             memclear.Name = "memclear";
             memclear.Size = new Size(79, 62);
             memclear.TabIndex = 20;
@@ -336,7 +336,7 @@
             Pi.BackColor = Color.FloralWhite;
             Pi.Cursor = Cursors.Hand;
             Pi.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            Pi.Location = new Point(673, 91);
+            Pi.Location = new Point(673, 152);
             Pi.Name = "Pi";
             Pi.Size = new Size(79, 62);
             Pi.TabIndex = 21;
@@ -349,7 +349,7 @@
             rootenav.BackColor = Color.FloralWhite;
             rootenav.Cursor = Cursors.Hand;
             rootenav.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            rootenav.Location = new Point(673, 179);
+            rootenav.Location = new Point(673, 220);
             rootenav.Name = "rootenav";
             rootenav.Size = new Size(79, 62);
             rootenav.TabIndex = 22;
@@ -363,7 +363,7 @@
             rootenur.BackgroundImageLayout = ImageLayout.Center;
             rootenur.Cursor = Cursors.Hand;
             rootenur.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            rootenur.Location = new Point(673, 268);
+            rootenur.Location = new Point(673, 288);
             rootenur.Name = "rootenur";
             rootenur.Size = new Size(79, 62);
             rootenur.TabIndex = 23;
@@ -390,7 +390,7 @@
             binär.BackgroundImageLayout = ImageLayout.Center;
             binär.Cursor = Cursors.Hand;
             binär.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            binär.Location = new Point(588, 14);
+            binär.Location = new Point(588, 84);
             binär.Name = "binär";
             binär.Size = new Size(79, 62);
             binär.TabIndex = 25;
@@ -404,7 +404,7 @@
             Dec.BackgroundImageLayout = ImageLayout.Center;
             Dec.Cursor = Cursors.Hand;
             Dec.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
-            Dec.Location = new Point(673, 14);
+            Dec.Location = new Point(673, 84);
             Dec.Name = "Dec";
             Dec.Size = new Size(79, 62);
             Dec.TabIndex = 26;
